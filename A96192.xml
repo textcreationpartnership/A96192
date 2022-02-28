@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welchmans declaration: declaring her resolution to pe revenged on her enemies, for te [c]reat overthrow of a creat many of her cousins and countreymen in Teane Forrest in Clocestershire, where her was most cruelly peaten: to[g]ether with her complaint for the losse of Ragland Castle pelonging to her creat cousin (the Earl of Worcester) while her was keep it, but now taken from her by her teadly enemy Sir William Waller, who was peat her in the foresaid forrest, in the climactericall yeer of her unhappy testruction. 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96192</idno>
+            <idno type="STC">Wing W1325</idno>
+            <idno type="STC">Thomason E118_4</idno>
+            <idno type="STC">ESTC R1886</idno>
+            <idno type="EEBO-CITATION">99860478</idno>
+            <idno type="PROQUEST">99860478</idno>
+            <idno type="VID">156081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156081)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welchmans declaration: declaring her resolution to pe revenged on her enemies, for te [c]reat overthrow of a creat many of her cousins and countreymen in Teane Forrest in Clocestershire, where her was most cruelly peaten: to[g]ether with her complaint for the losse of Ragland Castle pelonging to her creat cousin (the Earl of Worcester) while her was keep it, but now taken from her by her teadly enemy Sir William Waller, who was peat her in the foresaid forrest, in the climactericall yeer of her unhappy testruction. 1642.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Annotation on Thomason copy: "Sept: 17".</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Imperfect: tightly bound, and cropped with loss of text, and imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156081:1"/>
+            <pb facs="tcp:156081:1" rendition="simple:additions"/>
+            <p>The Welchmans Declaration: DECLARING Her Reſolution to pe revenged on her enemies, for te <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat overthrow of a creat many of her Couſins and Countrey<g ref="char:EOLhyphen"/>men in <hi>Teane Forreſt</hi> in <hi>Cloceſterſhire,</hi> where her was moſt cruelly peaten: to<g ref="char:EOLhyphen"/>gether with her Complaint for the loſſe of <hi>Ragland Caſtle</hi> pelonging to her creat Couſin (the Earl of <hi>Worceſter</hi>) while her was keep it, but now taken from her by her teadly enemy Sir <hi>William Waller,</hi> who was peat her in the foreſaid Forreſt, in the climactericall yeer of her unhappy Teſtruction. 1642.</p>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156081:2"/>
+            <pb n="1" facs="tcp:156081:2"/>
+            <head>The Welchmans Reſolution, to re<g ref="char:EOLhyphen"/>venge her ſelfe upon her enemies, for the teath of her Countrey-men in the creat overthrow given her by Sir WILLIAM WALLER, her teadly enemy.</head>
+            <p>HEr was thought to have ſhewed creat valour, and done extraordinary feats againſt her ene<g ref="char:EOLhyphen"/>mies, if her hand put te wit to deſcribe tem, put her was ſo weak in ammunition and ſtrength, tat her could do nothing, to her creat tiſcouragement and tiſadvantage, py reaſon <hi>Morgan ap Griffith</hi> her venerable Captain loſt her life and armes in te combate, yet let her without fanity or oſtentation ſpeak truth, which her ſeldome can doe, her countreymen in tat bickering pehaved temſelves like old <hi>Prittains,</hi> and fought it out pravely, and no doubt had her had put means to have eſcaped with her foule and pody conjunctly joyned, her had atchieved a creat overthrow worth remembrance in her yearly Prognoſtication, put it was to no purpoſe to fight without her head, her enemies plaid te men pravely, and made her cry <hi>peccavi,</hi> and inſtead of fight<g ref="char:EOLhyphen"/>ing,
+<pb n="2" facs="tcp:156081:3"/>ſafe her ſelfe with her heels, cots plut, it was petter to live in hopes to do future ſervice, ten upon te firſt skirmiſh to loſe her life, or pe taken and made to dance parefoot after he enemies muſicke, to ſome goale of bondage, where her muſt pe kept to give an account of her treaſon and rebellion againſt her countrey: but fe<g ref="char:EOLhyphen"/>rily her thought py her valour under pretence of fighting for her knowes not what, to win to her ſelfe immortall infamy, and creat wealth, peeing weary of her Welch Countrey, and in hopes to live on te fertile and ſmooth Engliſh ſoyle, which ſtill her endeavour ſhall be to effect.</p>
+            <p>And now loving countrey-men and prethren in ini<g ref="char:EOLhyphen"/>quity, let us pee adviſing what way her was peſt do her ſelf good, and revenge te teath of her creat couſin and countrey-men, and pring to paſſe teſe creat things, her will propound to her crave conſiderations teſe parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1 Inprimis, her was peſt to return into her owne countrey, and reſt her ſelfe till her has recovered her ſelfe, and re-furniſhed her ſelfe with ſome of her countrey pacon, ſheeſe, put<g ref="char:EOLhyphen"/>ter, leek, and te like proviſion for her natu<g ref="char:EOLhyphen"/>rall reliefe in her next journey, for her was in feare pefore her can againe ſet forth her ſelf to do her countrey ſervice, te pelly-timber and prog, which her moſt aims at, will pe conſu<g ref="char:EOLhyphen"/>med and devoured by her enemies, and if her
+<pb n="3" facs="tcp:156081:3"/>happen to pe again peaten, her may pe ſtrong to run away into te Woods and Mountaines, where her is ſure her adverſaries cannot eaſily purſue her, nor get any thing from her to re<g ref="char:EOLhyphen"/>lieve teir wants in teir purſuite.</p>
+            <p n="2">Secondly her was conceited, when her was again imployed in ſervice againſt her foes, to co put to te border of her own Country, and nor to adventure her ſelfe too farre in te Ene<g ref="char:EOLhyphen"/>mies Country and Territories, for feare that her ſhould meet with her Countryman death and ſo her ſhould never return again to make her will, and bequeath her coods left pehind her, to her Wife, Shildren, and Couzins, pi which meanes tey may pe teprived of them, py her covetous and teeviſh Countrymen and neigpours, which was wounding to her after her teath, Cot bleſſe her from a Cun, te ferry name of teath kils her pefore her is ready to dye, put her has petter hopes, tat her ſhall ne<g ref="char:EOLhyphen"/>ver come where her muſt fight in earneſt, for her could never apide to heare the roring of the Cuns, neither could her ever endure ſuch pultty doings in all her life.</p>
+            <pb n="4" facs="tcp:156081:4"/>
+            <p n="3">Tirdly, Her was intended pefore her ſet forth again, pi an humble Petition to her next Captain Genarall to know te true reaſon wherefore her muſt fight, and for what her muſt venture her teare plud, for twas not yet manifeſt to her mind for what her did fight, which made her fight with no fery creat courage, and if it ſhall appeare to her ſenſe tat te cauſe is good, for te te<g ref="char:EOLhyphen"/>fence of her unknown Welch Lawes, for te ma<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<g ref="char:EOLhyphen"/>nance of te tignity of te reverend Piſhites and Prelates of Englant, and her own Country of Wales; wherby her Religion may pe maintained in te outward magni<g ref="char:EOLhyphen"/>ficence, yet were it for her eaſe or preferment, her would not ſtick to entertain any Religion whatſoever, for her do ferrily pelieve moſt of her Countrymen may yet chuſe teir Religion without much danger to teir ſoules, put if te new ſhould pe worſe ten te old, her would ſpend her plud in tefending tat her hath hither<g ref="char:EOLhyphen"/>to learned and profeſſed.</p>
+            <p n="4">Fourthly, Her was thought requiſite, that if her ſhould happen to be compelled again to fight, it ſhould be upon creat odds and advantages, obſerving te valo<g ref="char:EOLhyphen"/>rous deeds, and heroick exploits atchieved and per<g ref="char:EOLhyphen"/>formed pi tat trice Noble Warriour Prince Rupert, te onely enemy to te Engliſh Nation, that then when the Forces of our adverſaries pe creater ten ours, not to fight at all, but put the Skirmiſh off with ſubtill ſlights and devices, and magnanimous Bravadoes, and turn her Force to plunder and ſpoile te Country, where little or no reſiſtance can be made, furniſh her ſelfe, and victuall her Campe, pi robbery and rapine, and make te night ſerve her, pi purning te hay and corn of te
+<pb n="5" facs="tcp:156081:4"/>Country, making lights thereof to runne away pi un<g ref="char:EOLhyphen"/>purſued; put if her perceive her ſelfe ſtrong enough or rather too ſtrong for her foes, ten fall upon them with creat fury and violence, let not one eſcape, kill her and ſlay her every one, and cauſe her vallour to pe chronicled, for te perpetuall fame of her creat and haughty deeds of Chivalry, ſpread her renown with all ſpeed about her Country, tat her ſelfe for her part in one pattle, killed hundreds, and tooke from tenne their Arms, Money, and Cloathes, ſome whereof, as Enſignes of her Honour, her muſt ſend to her friends and Couſins of her own plud in her own Country, thereby to encourage tem to undertake her cauſe, and helpe her to go forward in her prave victories.</p>
+            <p n="5">Fiftly, If her can worke pi ſecreat plots with any of her friends in her Enemies Army, which are there put for an advantage to her upon occaſion, to let her know te true ſtrength of their Forces, how many of them are inclined to turn in Skirmiſh to her fide, what ſtore of Ammunition, Powter, Pullets, Ordnance, te fery name whereof has almoſt kild her, they are furniſhed withall twill pe a cood pollicy to prevent her own dammage, preſerve her ſafety, and encourage, or diſcourage her to fight, according to ſuch information, and pi which her may pe te petter forewarned to runn away, if her find cood occaſion.</p>
+            <p>And tus much of her preſent metitations which was come into her mind, and her thought cood to preſent to your crave ſences and conſultations, which her te<g ref="char:EOLhyphen"/>ſire may pe weighed, and if approved, put in executi<g ref="char:EOLhyphen"/>on, pefore her Enemies has notice of her reſolutions, and prevent te ſame pi their ſuddain riſing againſt her in her own Country, her had thought to have given
+<pb n="6" facs="tcp:156081:5"/>her mind touching the ſecurity of her Country, her meanes ſeizing to te cood of her homebred Foes, and taking away tere Armes, pi which tey may be diſabled to hurt her at her ſetting forth again, put now her has no time to recapitulate te ſame, pecauſe her perceives her Enemies are at her heeles, and her muſt leave te diſcourſe till her may get ſafe into her Country, at which time, her will call to mind her diſgrace, recei<g ref="char:EOLhyphen"/>ved from time to time, pi her cruell foes, and metitate how her may with the aſſiſtance of her vallourous and courragious Countrymen, revenge that, and all other her paſt received Injuries, and tefend te Lawes, and te Religion of her Country, and her Liperies untermined pi het Adverſaries.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
